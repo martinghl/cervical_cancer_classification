@@ -29,7 +29,7 @@ We employed a 5*5 folds cross-validation and adaptive synthetic sampling (ADASYN
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/cervical-cancer-classification.git
+   git clone https://github.com/martinghl/cervical-cancer-classification.git
 2. Install the required packages:
    ```bash
    source("src/cervical_cancer_analysis.R")
